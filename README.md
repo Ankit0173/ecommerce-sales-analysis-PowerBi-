@@ -6,7 +6,7 @@ This project analyzes ecommerce sales performance using Microsoft Power BI. The 
 
 ## Dashboard Preview
 
-![Ecommerce Sales Dashboard](dashboard/Ecommerce_Sales_Dashboard.png)
+![Ecommerce Sales Dashboard](Sales.Dashboard.png)
 
 ## Business Objectives
 
